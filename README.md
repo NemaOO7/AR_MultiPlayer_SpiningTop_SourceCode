@@ -4,7 +4,7 @@ Welcome to Spinning Top Showdown, an exciting arcade multiplayer action game whe
 
 # Attention
 
-This build is based on a previous version of Android released before January 1st. It is only compatible with devices running that specific version. However, the game can be successfully built and played on Unity for testing and recreational purposes on PC.
+This build is based on a previous version of Android released before __November 31st__ . It is only compatible with devices running that specific version. However, the game can be successfully built and played on Unity for testing and recreational purposes on PC.
 
 ## Table of Contents
 
