@@ -2,6 +2,10 @@
 
 Welcome to Spinning Top Showdown, an exciting arcade multiplayer action game where players join a multiplayer room and fight each other to death using powerful spinning tops. This README file will provide you with all the necessary information to get started with the game.
 
+# Attention
+
+This build is based on a previous version of Android released before January 1st. It is only compatible with devices running that specific version. However, the game can be successfully built and played on Unity for testing and recreational purposes on PC.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
